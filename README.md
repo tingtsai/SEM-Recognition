@@ -1,7 +1,7 @@
 # SEM-Recognition
 
-[Projec description video](https://www.youtube.com/watch?v=BiHHvy-QbIQ)
-[Project paper](http://cs230.stanford.edu/projects_spring_2020/reports/38856594.pdf)
+[Projec description video](https://www.youtube.com/watch?v=BiHHvy-QbIQ) <br>
+[Project paper](http://cs230.stanford.edu/projects_spring_2020/reports/38856594.pdf) <br>
 
 Scanning Electron Microscopy (SEM) has become a powerful tool in nanoscience. Its images provide valuable morphology information and extracting contours from the images is useful for labs or semiconductor companies to evaluate their patterning capabilities. However, there is a lack of suitable tool to efficiently identify the contour of nanostructures. Previous approaches mainly applied edge detection and filtering algorithm and results are highly dependent on the quality of the images.
 
