@@ -13,4 +13,4 @@ We propose to solve this problem with both supervised learning and unsupervised 
 For the supervised learning method, we trained a CNN with labeled data (paired SEM images and labeled generated from ilastik tool) and use this network as the benchmark of our project. For the unsupervised learning method, we trained a CycleGAN with unpaired training data (SEM images and contours generated from the PhiDL packages) and compare the results with the first method. The authors of CycleGAN provide the implementation in PyTorch. The application was can be also applied to our problem the contour image can be considered as a different “style” of the polygon. We modified the data pipeline to train the network with our data, then tune the hyper-parameters and introduce new functional modules as the project proceeds.
 
 ![](/figures/detection.png)
-
+![](/figures/CycleGAN network.png)
