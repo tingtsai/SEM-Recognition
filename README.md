@@ -1,4 +1,8 @@
 # SEM-Recognition
+
+[Projec description video](https://www.youtube.com/watch?v=BiHHvy-QbIQ)
+[Project paper](http://cs230.stanford.edu/projects_spring_2020/reports/38856594.pdf)
+
 Scanning Electron Microscopy (SEM) has become a powerful tool in nanoscience. Its images provide valuable morphology information and extracting contours from the images is useful for labs or semiconductor companies to evaluate their patterning capabilities. However, there is a lack of suitable tool to efficiently identify the contour of nanostructures. Previous approaches mainly applied edge detection and filtering algorithm and results are highly dependent on the quality of the images.
 
 SEM images are usually noisy and under-resolved, though it is distinguishable to human, the contour of nanostructures extracted by the conventional numerical method are usually inaccurate and biased. (Figure 1b) Also, creating labels for given SEM images can be time-consuming and labor-intensive.
@@ -10,4 +14,3 @@ For the supervised learning method, we trained a CNN with labeled data (paired S
 
 ![](/figures/detection.png)
 
-[Projec description video](https://www.youtube.com/watch?v=BiHHvy-QbIQ)
