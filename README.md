@@ -1,4 +1,4 @@
-# SEM-Recognition
+# Introduction
 
 [Description video](https://www.youtube.com/watch?v=BiHHvy-QbIQ) <br>
 [Paper](http://cs230.stanford.edu/projects_spring_2020/reports/38856594.pdf) <br>
